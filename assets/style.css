@@ -4,9 +4,6 @@
 	box-sizing: content-box;
 }
 
-body {
-}
-
 .btn-orange {
 	background-color: var(--bs-yellow);
 	color: var(--bs-white);
